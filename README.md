@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sebastian Barrio Bejarano and I'm a Mechatronics Engineer and Software developer from Mexico!<br><br>I'm currently studying Mechatronics at TU Dresden</h2>
+<h2 align="left">Hi 👋! My name is Sebastian Barrio Bejarano and I'm a Mechatronics Engineer and Software developer from Mexico!<br><br>I'm currently studing at TU Dresden and working at Siemens!</h2>
 
 ###
 
