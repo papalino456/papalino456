@@ -55,6 +55,10 @@
   <a href="mailto:sebastian.barrio.b@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
+   <a href="https://papalino456.github.io/portfolio-2026/" target="_blank">
+     <img src="https://img.shields.io/badge/PORTFOLIO-18181b?style=for-the-badge&logo=gnubash&logoColor=22c55e"
+ height="35" alt="portfolio" />
+   </a>
 </div>
 
 ###
