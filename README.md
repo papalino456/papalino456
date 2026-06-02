@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sebastian Barrio Bejarano and I'm a Mechatronics Engineer and Software developer from Mexico!<br><br>
+<h2 align="left">Hi 👋! My name is Sebastian Barrio Bejarano and I'm a Mechatronics Engineer and AI Engineer from Mexico!<br><br>
 🎓 Tecnológico de Monterrey + TU Dresden '25 - Mechatronics & Robotics Engineering<br><br>
 💼 Former Siemens AI R&D Engineer </h2>
 
